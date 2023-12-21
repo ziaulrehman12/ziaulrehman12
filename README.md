@@ -1,9 +1,7 @@
 -  Hi, I’m Zia Ul Rehman. 
 -  Interested in Cybersecurity.
 -  Currently a Student at Bahria Univeristy Islamabad. Doing Bachelors in Computer Science.   
--  You can Reach/Follow me On ..
--  Email : ziaulrehman123@protonmail.com
--  Instagram : @zia.1gr_fe
+
 
 
 <!---
