@@ -13,9 +13,19 @@
 
 <h3 align="left">IBM Badges:</h3>
 
-[![Credly Badge](https://images.credly.com/size/250x250/images/35197eb5-da41-4ad5-94e9-ad35c9fd7890/Cybersec_compl_framew_sys_admin.png)](https://www.credly.com/badges/99e669ae-6497-449c-abc8-8867113e49d1/public_url)
-[![Credly Badge](https://images.credly.com/size/250x250/images/2d8a1c02-779b-4b58-9e11-701dcbeaf380/Cyber_roles__process_Op_Sys_Sec.png)](https://www.credly.com/badges/d24e588c-9013-4b1a-ada6-e187affa7488/public_url)
-[![Credly Badge](https://images.credly.com/size/250x250/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png)](https://www.credly.com/badges/38222274-2918-4fa3-90a2-7137dec31ea8/public_url)
+<a href="https://www.credly.com/badges/99e669ae-6497-449c-abc8-8867113e49d1/public_url">
+ <img src="https://github.com/ziaulrehman12/ziaulrehman12/assets/135421544/b1cd283b-d0e3-4017-af17-74fb193d1832" width="20%" height="20%">
+</a>
+<a href="https://www.credly.com/badges/d24e588c-9013-4b1a-ada6-e187affa7488/public_url">
+ <img src="https://github.com/ziaulrehman12/ziaulrehman12/assets/135421544/e9525410-4111-4351-a22a-cb7bc0f4b61b" width="20%" height="20%">
+</a>
+<a href="https://www.credly.com/badges/38222274-2918-4fa3-90a2-7137dec31ea8/public_url">
+ <img src="https://github.com/ziaulrehman12/ziaulrehman12/assets/135421544/fde4346b-a517-4515-b200-7b337cbdfba7" width="20%" height="20%">
+</a>
+
+
+
+
 
 
 
