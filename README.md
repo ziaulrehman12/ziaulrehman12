@@ -14,7 +14,9 @@
 
 
 <h3 align="left">IBM Badges:</h3>
-
+<a href="https://www.credly.com/badges/9a432e65-808f-4d61-8ec2-09e19fdb2dab/public_url">
+ <img src="https://github.com/ziaulrehman12/ziaulrehman12/assets/135421544/00f664e3-8097-4b5c-a75a-d98bf6d249d6" width="20%" height="20%">
+</a>
 <a href="https://www.credly.com/badges/cf01a2b9-94a7-43db-b7ac-e2d624bc49f2/public_url">
  <img src="https://github.com/ziaulrehman12/ziaulrehman12/assets/135421544/359ca455-9268-43dd-94a6-007f8c682a37" width="20%" height="20%">
 </a>
