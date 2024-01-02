@@ -13,27 +13,10 @@
 
 
 
-<h3 align="left">IBM Badges:</h3>
-<a href="https://www.credly.com/badges/ca344e52-0112-4bd4-810c-c4ddaaefcec1/public_url">
- <img src="https://github.com/ziaulrehman12/ziaulrehman12/assets/135421544/bc1fbe1a-92d8-4ccb-812c-06b96a6de967" width="20%" height="20%">
-</a>
-<a href="https://www.credly.com/badges/bfc31ea4-ea0d-49e5-a780-6b9c38e4f15b/public_url">
- <img src="https://github.com/ziaulrehman12/ziaulrehman12/assets/135421544/5f3f67fc-d622-4b52-92c2-d64625353335" width="20%" height="20%">
-</a>
-<a href="https://www.credly.com/badges/9a432e65-808f-4d61-8ec2-09e19fdb2dab/public_url">
- <img src="https://github.com/ziaulrehman12/ziaulrehman12/assets/135421544/00f664e3-8097-4b5c-a75a-d98bf6d249d6" width="20%" height="20%">
-</a>
-<a href="https://www.credly.com/badges/cf01a2b9-94a7-43db-b7ac-e2d624bc49f2/public_url">
- <img src="https://github.com/ziaulrehman12/ziaulrehman12/assets/135421544/359ca455-9268-43dd-94a6-007f8c682a37" width="20%" height="20%">
-</a>
-<a href="https://www.credly.com/badges/99e669ae-6497-449c-abc8-8867113e49d1/public_url">
- <img src="https://github.com/ziaulrehman12/ziaulrehman12/assets/135421544/b1cd283b-d0e3-4017-af17-74fb193d1832" width="20%" height="20%">
-</a>
-<a href="https://www.credly.com/badges/d24e588c-9013-4b1a-ada6-e187affa7488/public_url">
- <img src="https://github.com/ziaulrehman12/ziaulrehman12/assets/135421544/e9525410-4111-4351-a22a-cb7bc0f4b61b" width="20%" height="20%">
-</a>
-<a href="https://www.credly.com/badges/38222274-2918-4fa3-90a2-7137dec31ea8/public_url">
- <img src="https://github.com/ziaulrehman12/ziaulrehman12/assets/135421544/fde4346b-a517-4515-b200-7b337cbdfba7" width="20%" height="20%">
+<h3 align="left">IBM Badge:</h3>
+
+<a href="https://www.credly.com/badges/3ee40796-2e95-4127-919c-1d12c7ca3e8f/public_url">
+ <img src="https://github.com/ziaulrehman12/ziaulrehman12/assets/135421544/fdbeafd8-96d4-412f-b2ae-5c00ef61d15f" width="30%" height="30%">
 </a>
 
 
